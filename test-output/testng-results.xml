@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-29T21:58:47 IST" name="Default suite" finished-at="2023-01-29T21:59:12 IST" duration-ms="25029">
+    <groups>
+    </groups>
+    <test started-at="2023-01-29T21:58:47 IST" name="Default test" finished-at="2023-01-29T21:59:12 IST" duration-ms="25029">
+      <class name="Com.QA.Admin_area_Demo.TestCases.TC_003">
+        <test-method is-config="true" signature="generateReports()[pri:0, instance:Com.QA.Admin_area_Demo.TestCases.TC_003@4f80542f]" started-at="2023-01-29T21:58:47 IST" name="generateReports" finished-at="2023-01-29T21:58:47 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReports -->
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:Com.QA.Admin_area_Demo.TestCases.TC_003@4f80542f]" started-at="2023-01-29T21:58:47 IST" name="beforeclass" finished-at="2023-01-29T21:58:52 IST" duration-ms="4766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="Methodname(java.lang.reflect.Method)[pri:0, instance:Com.QA.Admin_area_Demo.TestCases.TC_003@4f80542f]" started-at="2023-01-29T21:58:52 IST" name="Methodname" finished-at="2023-01-29T21:58:52 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Com.QA.Admin_area_Demo.TestCases.TC_003.tc_003() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Methodname -->
+        <test-method signature="tc_003()[pri:0, instance:Com.QA.Admin_area_Demo.TestCases.TC_003@4f80542f]" started-at="2023-01-29T21:58:52 IST" name="tc_003" finished-at="2023-01-29T21:59:11 IST" duration-ms="18820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003 -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Com.QA.Admin_area_Demo.TestCases.TC_003@4f80542f]" started-at="2023-01-29T21:59:11 IST" name="afterclass" finished-at="2023-01-29T21:59:12 IST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Com.QA.Admin_area_Demo.TestCases.TC_003 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
